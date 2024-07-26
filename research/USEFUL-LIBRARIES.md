@@ -1,0 +1,3 @@
+# Useful python libraries to help build agent-network
+
+- (Instructor)[https://github.com/jxnl/instructor] -Instructor is a Python library that makes it a breeze to work with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API to manage validation, retries, and streaming responses. Get ready to supercharge your LLM workflows!
